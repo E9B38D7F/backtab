@@ -35,6 +35,12 @@ How to use the backtabber:
 			Tab-separated, row per (team, round) combination
 			Each simulation is saved as a column
 
+
+
+This folder contains example outputs, in this case "output_2025.txt", which is the output of the round 7 backtab, and "expire_file.txt", which is the output of the round 8 backtab, all on the 2025 dataset. 
+
+A full writeup of how the program works is in "writeup.pdf".
+
 Warning about data: outside of the 2025 data, there are swing teams around that are debating outside of their bracket. To accommodate them, you can alter the code (specifically the parts that calculate loss) which is not too difficult. 
 
 
